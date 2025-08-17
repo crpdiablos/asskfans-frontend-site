@@ -1,4 +1,4 @@
-export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://workspace.crpdiablos.repl.co';
+export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://91efbb93-c198-4744-8d66-bb7d8dc082db-00-2sbw60xde401x.riker.replit.dev/';
 
 type CheckoutArgs = { amount: number; currency: string; success_url: string; cancel_url: string; };
 
